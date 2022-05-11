@@ -1,0 +1,23 @@
+{
+    "name": "usuario/cep",
+    "description": "Busca de cep Online",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guilherme Taira",
+            "email": "gui_ssx@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "usuario\\Cep\\":"src/"
+        }
+    }
+}
