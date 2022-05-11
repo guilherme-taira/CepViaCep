@@ -1,5 +1,5 @@
 {
-    "name": "usuario/cep",
+    "name": "tairaembaleme/cep",
     "description": "Busca de cep Online",
     "type": "library",
     "license": "MIT",
